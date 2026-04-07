@@ -1,0 +1,20 @@
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+label {
+    color: #dce9f5;
+    font-size: 14px;
+}
+ 
+#mensaje-confirmacion {
+    display: none;
+    color: #7effa0;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    margin-top: 15px;
+    font-weight: bold;
+}
+ 
